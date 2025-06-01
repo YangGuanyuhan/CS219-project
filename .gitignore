@@ -1,0 +1,29 @@
+
+*.bmp
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.zip
+*.iso
+*.exe
+*.out
+
+# Rust 项目的构建目录
+/target/
+**/target/
+
+# C/C++/CMake 构建目录
+/build/
+**/build/
+
+# 其他 IDE/编辑器临时文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+#可执行文件
+*.exe
+*.out
+*.o
